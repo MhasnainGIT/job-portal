@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 job portal 
 
+=======
+>>>>>>> 72fac8e (Add backend and frontend files)
 # Job Portal
 
 A full-stack web application connecting job seekers with employers, offering real-time job matching, secure authentication, and personalized job alerts.
@@ -55,3 +58,10 @@ This project is licensed under the MIT License.
 
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> af6c93fa0dbc4c14d70ec3a3e54f77ad845a9891
+>>>>>>> 72fac8e (Add backend and frontend files)
