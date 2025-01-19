@@ -42,7 +42,7 @@ A full-stack web application connecting job seekers with employers, offering rea
 
     * Register and log in as a job seeker or employer.
     * Post and apply for jobs in real-time.
-    * Receive job alerts based on your preferences.
+    * Receive job alerts based on your preferences.Thats it
 
 
 ## License
